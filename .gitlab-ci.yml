@@ -1,4 +1,4 @@
-image: "gitlab.com/mountainyeti/alpentalcc:latest" # Custom Ruby image, replace with whatever you want
+image: "registry.gitlab.com/mountainyeti/alpentalcc:latest" # Custom Ruby image, replace with whatever you want
 stages:
   - build
   - deploy
