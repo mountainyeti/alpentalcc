@@ -27,10 +27,17 @@
 </head>
 <body>
     <!-- Navbar -->
+{% if page.homepage %}
     <nav class="navbar navbar-expand-lg fixed-top navbar-transparent" color-on-scroll="100">
+{% else %}
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light" style="background-color: #28a745">
+{% endif %}
         <div class="container">
 			<div class="navbar-translate">
+			{% if page.homepage %}
+			{% else %}
 				<a class="navbar-brand" href="http://www.alpentalcc.org/">Alpental Community Club</a>
+			{% endif %}
 	            <button class="navbar-toggler navbar-toggler-right navbar-burger" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-bar"></span>
 					<span class="navbar-toggler-bar"></span>
@@ -45,7 +52,7 @@
 				      	<li class="nav-item dropdown">
 				        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-info-circle"></i>Club Info</a>
 				        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-				          <a class="dropdown-item" href="#"><i class="fa fa-book"></i>Covenants</a>
+				          <a class="dropdown-item" href="covenants.html"><i class="fa fa-book"></i>Covenants</a>
 				          <a class="dropdown-item" href="#"><i class="fa fa-wrench"></i>Vendors</a>
 				          <a class="dropdown-item" href="#"><i class="fa fa-home"></i>Architecture</a>
 				          <a class="dropdown-item" href="#"><i class="fa fa-archive"></i>Archive</a>
