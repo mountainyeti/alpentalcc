@@ -4,10 +4,9 @@
 <head>
 	<meta charset="utf-8" />
     <link rel="icon" type="image/png" href="../assets/img/favicon.ico">
-    <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>Alpental Community Club</title>
+    <title>{{ page.title }}</title>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -27,10 +26,17 @@
 </head>
 <body>
     <!-- Navbar -->
+{% if page.homepage %}
     <nav class="navbar navbar-expand-lg fixed-top navbar-transparent" color-on-scroll="100">
+{% else %}
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light" style="background-color: #28a745">
+{% endif %}
         <div class="container">
 			<div class="navbar-translate">
-				<a class="navbar-brand" href="http://www.alpentalcc.org/">Alpental Community Club</a>
+			{% if page.homepage %}
+			{% else %}
+				<a class="navbar-brand" href="index.html">Alpental Community Club</a>
+			{% endif %}
 	            <button class="navbar-toggler navbar-toggler-right navbar-burger" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-bar"></span>
 					<span class="navbar-toggler-bar"></span>
@@ -45,11 +51,11 @@
 				      	<li class="nav-item dropdown">
 				        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-info-circle"></i>Club Info</a>
 				        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-				          <a class="dropdown-item" href="#"><i class="fa fa-book"></i>Covenants</a>
-				          <a class="dropdown-item" href="#"><i class="fa fa-wrench"></i>Vendors</a>
+				          <a class="dropdown-item" href="covenants.html"><i class="fa fa-book"></i>Covenants</a>
+				          <a class="dropdown-item" href="vendors.html"><i class="fa fa-wrench"></i>Vendors</a>
 				          <a class="dropdown-item" href="#"><i class="fa fa-home"></i>Architecture</a>
 				          <a class="dropdown-item" href="#"><i class="fa fa-archive"></i>Archive</a>
-				          <a class="dropdown-item" href="#board"><i class="fa fa-users"></i>Board</a>
+				          <a class="dropdown-item" data-scroll="true" data-id="#board" href="index.html#board"><i class="fa fa-users"></i>Board</a>
 				        </div>
 			      	</li>
 	            </ul>
