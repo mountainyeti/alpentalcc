@@ -1141,3 +1141,6 @@
     z-index: 2;
 }
 
+ul{
+    list-style-position: inside;
+}
