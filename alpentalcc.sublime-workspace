@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"us",
+				"us-west-2"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"fisr",
+				"firstName"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"le",
+				"lead"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"ti",
+				"tickeryeti_form_group"
+			],
+			[
+				"ticker",
+				"tickeryeti_symbol"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bacg",
+				"background-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "admin/config.yml",
+			"settings":
+			{
+				"buffer_size": 1225,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin/index.html",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12995,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chad/Development/alpentalcc",
+		"/Users/chad/Development/alpentalcc/admin"
+	],
+	"file_history":
+	[
+		"/Users/chad/Development/alpentalcc/.gitignore",
+		"/Users/chad/Development/acc/_site/index.html",
+		"/Users/chad/Development/acc/assets/_layouts/default.html",
+		"/Users/chad/Development/mountainstache/index.html",
+		"/Users/chad/Development/carl/carl.html",
+		"/Users/chad/Development/acc/.gitlab-ci.yml",
+		"/Users/chad/Development/acc/index.html",
+		"/Users/chad/Desktop/pk2-free-v2.1.0/examples/landing.html",
+		"/Users/chad/Desktop/pk2-free-v2.1.0/index.html",
+		"/Users/chad/Desktop/pk2-free-v2.1.0/assets/js/paper-kit.js",
+		"/Users/chad/Development/acc/assets/css/paper-kit.css",
+		"/Users/chad/Development/acc/assets/css/demo.css",
+		"/Users/chad/Development/acc/index_1.html",
+		"/Users/chad/Desktop/pk2-free-v2.1.0/index_1.html",
+		"/Users/chad/Desktop/pk2-free-v2.1.0/examples/landing_1.html",
+		"/Users/chad/Development/acc/index_test.html",
+		"/Users/chad/Development/acc/assets/js/popper.js",
+		"/Users/chad/Development/acc/assets/css/nucleo-icons.css",
+		"/Users/chad/Development/acc/assets/css/bootstrap.min.css",
+		"/Users/chad/Development/acc/index_test",
+		"/Users/chad/Development/ACCwebsite/Site/alpentalcc.gitlab-ci.yml",
+		"/Users/chad/Downloads/README.md",
+		"/Users/chad/Downloads/startbootstrap-grayscale-gh-pages/package-lock.json",
+		"/Users/chad/Downloads/Squadfree/index.html",
+		"/Users/chad/hadashboard/Gemfile",
+		"/Users/chad/hadashboard/dashboards/main.erb",
+		"/Users/chad/hadashboard/dashboards/layout.erb",
+		"/Users/chad/Box Sync/UdemyCoursework/DeveloperBootcamp/Unit8/loops.js",
+		"/Users/chad/Box Sync/UdemyCoursework/DeveloperBootcamp/Unit8/loops.html",
+		"/Users/chad/Box Sync/UdemyCoursework/DeveloperBootcamp/Unit8/script.js",
+		"/Users/chad/Box Sync/UdemyCoursework/DeveloperBootcamp/Unit8/StalkerExercise.html",
+		"/Users/chad/Development/TickerYeti/index.html",
+		"/Users/chad/Development/TickerYeti/tickeryeti.js",
+		"/Users/chad/Development/mountainstache/styles.css",
+		"/Users/chad/Development/mountainstache/resume.html",
+		"/Users/chad/Development/SPFL/sonnybonobowl.html",
+		"/Users/chad/Development/SPFL/round2/r2game2.html",
+		"/Users/chad/Development/SPFL/round2/r2game1.html",
+		"/Users/chad/Development/SPFL/round1/r1game4.html",
+		"/Users/chad/Development/SPFL/round1/r1game3.html",
+		"/Users/chad/Development/SPFL/round1/r1game2.html",
+		"/Users/chad/Development/SPFL/round1/r1game1.html",
+		"/Users/chad/Development/SPFL/stake.html",
+		"/Users/chad/Development/SPFL/info.html",
+		"/Users/chad/Development/SPFL/index.html",
+		"/Users/chad/Development/SPFL/spfl.html",
+		"/Users/chad/Desktop/Playoff Information",
+		"/Users/chad/Development/SPFL/round1/game4.html",
+		"/Users/chad/Development/SPFL/round1/game3.html",
+		"/Users/chad/Development/SPFL/round1/game2.html",
+		"/Users/chad/Development/SPFL/round1/game1.html",
+		"/Users/chad/Box Sync/UdemyCoursework/DeveloperBootcamp/Unit7/04_Navbars/navbars.html",
+		"/Users/chad/Development/SPFL/spfl.css",
+		"/Users/chad/Documents/Raspberry_Pi/Setup Files/Motion Camera Setup",
+		"/Users/chad/Documents/Raspberry_Pi/Setup Files/Snow Cam Server",
+		"/Users/chad/Documents/Raspberry_Pi/Raspian/Setup Files/Pi Standard Setup",
+		"/Users/chad/Documents/Raspberry_Pi/Setup Files/ssh",
+		"/Users/chad/Documents/Raspberry_Pi/Setup Files/wpa_supplicant.conf",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/cryptocurrency.widget.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/authentic.widget/authentic.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/mini-system-charts.widget/network.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/mini-system-charts.widget/disk.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/mini-system-charts.widget/cpu.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/calendar.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/mini-system-charts.widget/mem.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/timeinwords.widget/index.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/wordclock.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/ledclock.widget/index.js",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/fuzzytime.widget/index.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/ch_meteo.widget/index.coffee",
+		"/Users/chad/Library/Application Support/Übersicht/widgets/Eva.widget/index.coffee",
+		"/Users/chad/Box Sync/Personal/UdemyCoursework/DeveloperBootcamp/Unit5/10_Selector_Exercise_Solution/solution.css",
+		"/Users/chad/Box Sync/Personal/UdemyCoursework/DeveloperBootcamp/Unit5/selectors",
+		"/Users/chad/Desktop/EFI/boot/refind.conf",
+		"/Volumes/efisd/EFI/boot/refind.conf",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/06_Tic_Tac_Toe_Solution/tictactoe.html",
+		"/Users/chad/Documents/GitHub/weather_forecast_cloud/weather_forecast_cloud.py",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/06_Tic_Tac_Toe_Solution/board.html",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/03_Google Fonts/styles.css",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/03_Google Fonts/fonts.html",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/02_More_Font_Properties/hey_josh.css",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/02_More_Font_Properties/hey_josh.html",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/02_More_Font_Properties/styles.css",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/02_More_Font_Properties/fonts.html",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/01_Fonts_Intro/style.css",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/01_Fonts_Intro/practice.html",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/01_Fonts_Intro/styles.css",
+		"/Users/chad/Movies/Udemy Lectures/Section6-IntermediateCSS/01_Fonts_Intro/fonts.html",
+		"/Users/chad/Movies/Udemy Lectures/Section5-IntroToCSS/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/chad/Movies/Udemy Lectures/Section5-IntroToCSS/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/chad/Box Sync/Personal/UdemyCoursework/DeveloperBootcamp/Unit5/todos.css",
+		"/Users/chad/Box Sync/Personal/UdemyCoursework/DeveloperBootcamp/Unit5/todoList.html",
+		"/Users/chad/Box Sync/Personal/UdemyCoursework/DeveloperBootcamp/Unit4/FormsExercise.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "admin/config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1225,
+								1225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4540,
+								4540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 764.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alpentalcc.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
