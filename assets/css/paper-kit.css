@@ -1944,7 +1944,7 @@ textarea.form-control {
   margin: 5px 0px;
   padding: 20px 15px;
   font-size: 14px;
-  color: #66615B;
+  color: #FFF;
   text-transform: uppercase;
 }
 .navbar .nav-link i {
@@ -5666,7 +5666,7 @@ textarea.form-control {
 }
 
 .page-header {
-  background-color: #66615b;
+  background-color: #0b1011;
   background-position: center center;
   background-size: cover;
   min-height: 100vh;
