@@ -5931,3 +5931,7 @@ textarea.form-control {
 .following img {
   max-width: 70px;
 }
+
+.white-text {
+  color: rgba(255, 255, 255, 0.7)
+}
