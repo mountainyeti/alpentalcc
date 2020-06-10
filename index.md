@@ -18,8 +18,8 @@ page_sections:
   - link: "#archive"
     link_text: Archive
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://summitatsnoqualmie.com/conditions
+    button_text: Snow Conditions
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
