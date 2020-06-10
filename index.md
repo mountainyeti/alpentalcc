@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
+  - link: "#covenants"
+    link_text: Covenants
   - link: "#pricing"
     link_text: Pricing
   - link: "#team"
