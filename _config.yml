@@ -5,6 +5,7 @@ description: >-
   The official website of the Alpental Community Club
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "alpentalcc.org" # your site's origin, e.g. https://forestry.io
+favicon:
 
 # Build settings
 defaults:
