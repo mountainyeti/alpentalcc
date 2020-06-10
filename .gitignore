@@ -2,6 +2,7 @@
 *.DS_Store
 node_modules/
 _site
+Gemfile.lock
 
 # Ensure Hugo builds aren't committed to Git
 public/
