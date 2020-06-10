@@ -13,8 +13,8 @@ page_sections:
     link_text: Covenants
   - link: "#vendors"
     link_text: Vendors
-  - link: "#team"
-    link_text: Team
+  - link: "#architecture"
+    link_text: Architecture
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
