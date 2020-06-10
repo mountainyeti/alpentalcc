@@ -17,9 +17,14 @@ page_sections:
 =======
   - link: "#vendors"
     link_text: Vendors
+<<<<<<< HEAD
 >>>>>>> c8dd22256215ddd5750777e3d3cb35cf8d47ee12
   - link: "#team"
     link_text: Team
+=======
+  - link: "#architecture"
+    link_text: Architecture
+>>>>>>> ecfaa14db43a5d990b011fdd250adeb2ae6f6240
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
