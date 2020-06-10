@@ -7,8 +7,6 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "#archive"
-    link_text: Archive
   - link: "/"
     link_text: Home
   - link: "#covenants"
@@ -17,6 +15,8 @@ page_sections:
     link_text: Vendors
   - link: "#architecture"
     link_text: Architecture
+  - link: "#archive"
+    link_text: Archive
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
