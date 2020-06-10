@@ -11,8 +11,13 @@ page_sections:
     link_text: Home
   - link: "#covenants"
     link_text: Covenants
+<<<<<<< HEAD
   - link: "#pricing"
     link_text: Pricing
+=======
+  - link: "#vendors"
+    link_text: Vendors
+>>>>>>> c8dd22256215ddd5750777e3d3cb35cf8d47ee12
   - link: "#team"
     link_text: Team
   cta:
