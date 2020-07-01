@@ -5,3 +5,4 @@ assets/img/.DS_Store
 alpentalcc.sublime-workspace
 alpentalcc.sublime-project
 alpentalcc
+.jekyll-cache*
